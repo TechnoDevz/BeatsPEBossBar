@@ -1,0 +1,6 @@
+name: BossBar
+api: [3.0.0-ALPHA11, 3.0.0-ALPHA12]
+version: 1.0.0
+load: STARTUP
+author: QuiltedTuba2798
+main: BossBar\Main
