@@ -1,7 +1,0 @@
----
-head-message: "Edit In Config.yml"
-changing-messages:
- - "{100%}"
-change-speed: 60
-worlds: []
-...
